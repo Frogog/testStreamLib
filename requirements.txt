@@ -3,4 +3,5 @@ scikit-image
 Pillow
 torch
 torchvision
+transformers
 numpy
